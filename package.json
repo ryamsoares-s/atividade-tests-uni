@@ -1,0 +1,24 @@
+{
+  "name": "atividade-tests-uni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^30.1.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryamsoares-s/atividade-tests-uni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ryamsoares-s/atividade-tests-uni/issues"
+  },
+  "homepage": "https://github.com/ryamsoares-s/atividade-tests-uni#readme"
+}
